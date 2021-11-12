@@ -16,4 +16,5 @@ The Sakila Database holds information about a company that rents movie DVDs. For
 SAKILLA DVD DATABASE
 
 **CREDITS**
+
 udacity.com
